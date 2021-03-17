@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_app
 
 This app keeps your ping pong score when you can't
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# scorekeeper
+>>>>>>> cf0c66ee67f82f859c1ebb639731afa80d73ee52
